@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- I write code a lot.
+- I'm currently looking to learn Rust technologies applied to apps and web.
+- I'm really interested in applying AI technologies to upcoming projects.
+- You can reach me at aranaschristianlouise@gmail.com.
+
+
+Feel free to look at [my projects portal](https://chrsrns.github.io/personal-projects-portal/) to see my (relatively) complete pet projects.
+
 <!--
 **chrsrns/chrsrns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
