@@ -8,6 +8,8 @@
 
 Feel free to look at [my projects portal](https://chrsrns.github.io/personal-projects-portal/) to see my (relatively) complete pet projects.
 
+Feel free to also look at [my online resume](https://chrsrns.github.io/css-resume/), which I [coded myself](https://github.com/chrsrns/css-resume), to see an overview of my credentials.
+
 <!--
 **chrsrns/chrsrns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
